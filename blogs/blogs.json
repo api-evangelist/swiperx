@@ -1,0 +1,21 @@
+{
+  "repo": "swiperx",
+  "feeds": [
+    {
+      "source": "https://www.swiperx.com/feed/",
+      "feed_url": "https://www.swiperx.com/feed/",
+      "title": "",
+      "saved": 1,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.swiperx.com/our-story/",
+      "feed_url": "https://www.swiperx.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 2,
+  "fetched": "2026-08-01T15:49:00Z"
+}
