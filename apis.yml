@@ -37,7 +37,7 @@ x-notes: >-
   backend exists at https://api.swiperxapp.com (root returns
   {"version":"3.54.2","build":"109600"}) but exposes no OpenAPI, docs, or
   discovery endpoints. No GitHub org (swiperx/mclinica/swiperxapp all 404).
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
